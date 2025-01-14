@@ -22,7 +22,7 @@ Puedes ver el dashboard interactivo en Power BI Service siguiendo este [enlace](
 
 A continuación, una captura de pantalla del dashboard:
 
-![Dashboard de Ventas Healthcare](./Dashboard_Healthcare.png)
+![Dashboard de Ventas Healthcare](Dashboard_Healtcare.png)
 
 ## Archivos del Proyecto
 
