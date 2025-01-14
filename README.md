@@ -38,7 +38,7 @@ A continuación, una captura de pantalla del dashboard:
 ## Cómo Ejecutar el Proyecto
 
 1. **Requisitos**: Asegúrate de tener Power BI Desktop instalado para abrir el archivo `.pbix`.
-2. **Descargar el archivo**: Haz clic en el archivo [Dashboard_Ventas_Healthcare.pbix](./Dashboard_Ventas_Healthcare.pbix) para descargarlo.
+2. **Descargar el archivo**: Haz clic en el archivo [Dashboard_Ventas_Healthcare.pbix](Analisis Ventas Healtcare.pbix) para descargarlo.
 3. **Abrir en Power BI Desktop**: Una vez descargado, abre el archivo en Power BI Desktop para explorar el dashboard y las visualizaciones.
 
 ## Contacto
