@@ -9,7 +9,7 @@
 Este repositorio está organizado en diferentes ramas para mostrar mi trabajo en las siguientes áreas:
 
 - **Power BI**: Dashboards interactivos y visualizaciones para analizar y presentar datos empresariales.
-- **Python**: Scripts y notebooks para procesamiento de datos, análisis estadístico y aprendizaje automático.
+- **Python**: Scripts y notebooks para procesamiento de datos, análisis estadístico y machine learning.
 - **SQL**: Consultas y gestión de bases de datos para extraer información de conjuntos de datos estructurados.
 
 Explora las ramas para ver los proyectos en los que estoy trabajando actualmente.
