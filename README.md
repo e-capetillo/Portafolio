@@ -5,7 +5,7 @@ Este proyecto genera y analiza datos de hosts utilizando Python, pandas, matplot
 ## Estructura del Proyecto
 
 - `hosts.csv`: Archivo CSV generado que contiene los datos de los hosts.
-- `hosts_analysis.py`: Script de Python que genera los datos de los hosts, los guarda en un archivo CSV y crea varios gráficos para analizar los datos.
+- `host_analysis.ipynb.`: Script de Python que genera los datos de los hosts, los guarda en un archivo CSV y crea varios gráficos para analizar los datos.
 
 ## Requisitos
 
@@ -25,6 +25,7 @@ El script hosts_analysis.py genera un DataFrame con 1500 registros de hosts y lo
 
 - Visualización de Datos
 El script también crea varios gráficos para analizar los datos de los hosts, incluyendo:
+
   - Gráfico de barras de entornos por país.
   - Gráfico de barras horizontales de tipos de sistemas operativos por país.
   - Gráfico de pastel de porcentajes de sistemas operativos.
@@ -35,9 +36,8 @@ El script también crea varios gráficos para analizar los datos de los hosts, i
 Para ejecutar el script y generar los datos y gráficos, sigue estos pasos:
 
 - Clona este repositorio o descarga los archivos.
-- Navega al directorio donde se encuentra el archivo hosts_analysis.py.
-- Ejecuta el script con el siguiente comando:
--- python hosts_analysis.py
+- Navega al directorio donde se encuentra el archivo host_analysis.ipynb
+- Abre el notebook con Jupyter Notebook o JupyterLab y ejecuta todas las celdas.
 
 ## Ejemplo de Salida
 El script generará un archivo CSV llamado hosts.csv y mostrará varios gráficos como se describe en la sección de visualización de datos.
