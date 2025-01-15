@@ -55,9 +55,12 @@ Este proyecto consiste en una base de datos para gestionar la información de lo
    - `descripcion` (VARCHAR)
    - `dosis` (VARCHAR)
   
-Contacto
+## Contacto
+
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de GitHub o por correo electrónico.
 
-Proyecto creado por: Emily Capetillo López
-Fecha de Creación: Enero 2025
-Correo electrónico: emi.capetillo@gmail.com
+---
+
+**Proyecto creado por:** Emily Capetillo López  
+**Fecha de Creación:** Enero 2025  
+**Correo electrónico:** [emi.capetillo@gmail.com](mailto:emi.capetillo@gmail.com)
