@@ -38,6 +38,16 @@ Este proyecto consiste en una base de datos para gestionar la información de lo
    - `descripcion` (VARCHAR)
    - `fecha_inicio` (DATE)
    - `fecha_fin` (DATE)
+  
+## Instrucciones para Ejecutar el Script de Inserción de Datos
+
+1. Asegúrate de tener MySQL instalado y configurado en tu máquina.
+2. Clona este repositorio en tu máquina local.
+3. Abre el archivo `insert_data.py` y reemplaza `"tu_contraseña"` con la contraseña de tu cuenta de MySQL.
+4. Abre una terminal y navega al directorio donde se encuentra el archivo `insert_data.py`.
+5. Ejecuta el script con el siguiente comando:
+   ```sh
+   python insert_data.py
 
 5. **Medicamentos**
    - `id_medicamento` (INT, PRIMARY KEY)
