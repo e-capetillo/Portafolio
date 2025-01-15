@@ -13,6 +13,7 @@ Este proyecto genera y analiza datos de hosts utilizando Python, pandas, matplot
 - pandas
 - matplotlib
 - seaborn
+
 Puedes instalar las bibliotecas necesarias utilizando pip:
 
 ```sh pip install pandas matplotlib seaborn ```
@@ -26,10 +27,15 @@ El script hosts_analysis.py genera un DataFrame con 1500 registros de hosts y lo
 El script también crea varios gráficos para analizar los datos de los hosts, incluyendo:
 
 -- Gráfico de barras de entornos por país.
+
 -- Gráfico de barras horizontales de tipos de sistemas operativos por país.
+
 -- Gráfico de pastel de porcentajes de sistemas operativos.
+
 -- Gráfico de barras horizontales del número total de hosts por país.
+
 -- Gráfico de barras de hosts por entorno agrupados por país.
+
 
 ## Ejecución del Script
 Para ejecutar el script y generar los datos y gráficos, sigue estos pasos:
