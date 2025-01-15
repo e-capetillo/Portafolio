@@ -13,30 +13,34 @@ Este proyecto genera y analiza datos de hosts utilizando Python, pandas, matplot
 - pandas
 - matplotlib
 - seaborn
-
 Puedes instalar las bibliotecas necesarias utilizando pip:
 
-```sh
-pip install pandas matplotlib seaborn
+```sh pip install pandas matplotlib seaborn ```
+
 
 ## Uso
-Generar y Guardar Datos
+- Generar y Guardar Datos
 El script hosts_analysis.py genera un DataFrame con 1500 registros de hosts y lo guarda en un archivo CSV llamado hosts.csv.
 
-Visualización de Datos
+- Visualización de Datos
 El script también crea varios gráficos para analizar los datos de los hosts, incluyendo:
 
-Gráfico de barras de entornos por país.
-Gráfico de barras horizontales de tipos de sistemas operativos por país.
-Gráfico de pastel de porcentajes de sistemas operativos.
-Gráfico de barras horizontales del número total de hosts por país.
-Gráfico de barras de hosts por entorno agrupados por país.
-Ejecución del Script
+-- Gráfico de barras de entornos por país.
+-- Gráfico de barras horizontales de tipos de sistemas operativos por país.
+-- Gráfico de pastel de porcentajes de sistemas operativos.
+-- Gráfico de barras horizontales del número total de hosts por país.
+-- Gráfico de barras de hosts por entorno agrupados por país.
+
+## Ejecución del Script
 Para ejecutar el script y generar los datos y gráficos, sigue estos pasos:
 
-Clona este repositorio o descarga los archivos.
-Navega al directorio donde se encuentra el archivo hosts_analysis.py.
-Ejecuta el script con el siguiente comando:
-python hosts_analysis.py
-Ejemplo de Salida
+- Clona este repositorio o descarga los archivos.
+- Navega al directorio donde se encuentra el archivo hosts_analysis.py.
+- Ejecuta el script con el siguiente comando:
+-- python hosts_analysis.py
+
+## Ejemplo de Salida
 El script generará un archivo CSV llamado hosts.csv y mostrará varios gráficos como se describe en la sección de visualización de datos.
+
+
+
