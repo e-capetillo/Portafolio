@@ -1,34 +1,34 @@
-# 👋 Welcome to my Data Analytics Portfolio!
+# 👋 ¡Bienvenido a mi Portafolio de Análisis de Datos!
 
-Hi there! I'm **Emily Capetillo López**, and this repository is dedicated to showcasing my growing expertise in **data analytics and visualization**. Here, you'll find a collection of projects and scripts that demonstrate my skills with tools like **Power BI**, **Python**, and **SQL**, focusing on real-world applications.
-
----
-
-## 📂 Repository Structure
-
-This repository is organized into different branches to showcase my work in the following areas:
-
-- **Power BI**: Interactive dashboards and visualizations for analyzing and presenting business data.
-- **Python**: Scripts and notebooks for data processing, statistical analysis, and machine learning.
-- **SQL**: Queries and database management for extracting insights from structured datasets.
-
-Feel free to explore the branches to see the type of projects I'm currently working on.
+¡Hola! Soy **Emily Capetillo López** y este repositorio está dedicado a mostrar mi creciente experiencia en **análisis y visualización de datos**. Aquí encontrarás una colección de proyectos y scripts que demuestran mis habilidades con herramientas como **Power BI**, **Python** y **SQL**, aplicadas a casos del mundo real.
 
 ---
 
-## 🚀 What's Next?
+## 📂 Estructura del Repositorio
 
-I'm continuously updating this repository with new projects and examples as I enhance my skills. Stay tuned for upcoming content in **healthcare analytics**, **sales forecasting**, and more!
+Este repositorio está organizado en diferentes ramas para mostrar mi trabajo en las siguientes áreas:
+
+- **Power BI**: Dashboards interactivos y visualizaciones para analizar y presentar datos empresariales.
+- **Python**: Scripts y notebooks para procesamiento de datos, análisis estadístico y aprendizaje automático.
+- **SQL**: Consultas y gestión de bases de datos para extraer información de conjuntos de datos estructurados.
+
+Explora las ramas para ver los proyectos en los que estoy trabajando actualmente.
 
 ---
 
-## 📧 Contact Me
+## 🚀 ¿Qué sigue?
 
-If you'd like to collaborate, discuss a project, or have any questions, feel free to reach out:
+Estoy actualizando continuamente este repositorio con nuevos proyectos y ejemplos mientras sigo desarrollando mis habilidades. ¡Pronto agregaré contenido relacionado con **análisis en healthcare**, **pronósticos de ventas** y mucho más!
+
+---
+
+## 📧 Contáctame
+
+Si te gustaría colaborar, discutir un proyecto o tienes alguna pregunta, no dudes en contactarme:
 
 - Email: [emi.capetillo@gmail.com](mailto:emi.capetillo@gmail.com)
 - LinkedIn: [linkedin.com/in/emilycl](https://www.linkedin.com/in/emilycl)
 
 ---
 
-Thank you for visiting! 😊
+¡Gracias por visitar! 😊
