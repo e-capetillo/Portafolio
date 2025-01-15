@@ -25,8 +25,6 @@ El script hosts_analysis.py genera un DataFrame con 1500 registros de hosts y lo
 
 - Visualización de Datos
 El script también crea varios gráficos para analizar los datos de los hosts, incluyendo:
-
-- Primer punto
   - Gráfico de barras de entornos por país.
   - Gráfico de barras horizontales de tipos de sistemas operativos por país.
   - Gráfico de pastel de porcentajes de sistemas operativos.
