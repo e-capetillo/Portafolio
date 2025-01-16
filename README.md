@@ -59,7 +59,7 @@ El análisis se centra en optimizar el rendimiento de los vehículos mediante:
 
 ## Acceder al Dashboard  
 
-Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com](https://app.powerbi.com/groups/me/reports/14262033-6776-4e6c-8d5f-30dae35fdaeb/3f97fcfffad6a2be1cc0?experience=power-bi)).  
+Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com](https://app.powerbi.com/groups/me/reports/14262033-6776-4e6c-8d5f-30dae35fdaeb/3f97fcfffad6a2be1cc0?experience=power-bi).  
 
 ## Archivos del Proyecto  
 
