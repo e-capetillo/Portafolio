@@ -41,12 +41,50 @@ A continuación, una captura de pantalla del dashboard:
 2. **Descargar el archivo**: Haz clic en el archivo [Analisis Ventas Healtcare.pbix](https://github.com/e-capetillo/Portafolio/blob/c0a84b85175ea48702c92880fff8e51defbc7d55/Analisis%20Ventas%20Healtcare.pbix) para descargarlo.
 3. **Abrir en Power BI Desktop**: Una vez descargado, abre el archivo en Power BI Desktop para explorar el dashboard y las visualizaciones.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de GitHub o por correo electrónico.
+**Proyecto creado por:** Emily Capetillo López  
+**Fecha de Creación:** Enero 2025  
 
 ---
 
+# Business Case: Optimización del Consumo de Gasolina  
+
+Este proyecto presenta un análisis detallado para reducir el consumo de gasolina en la flota de **Transportes CALO**, logrando una mejora en la eficiencia operativa y un ahorro anual proyectado de $76,275 USD.  
+
+## Descripción  
+
+El análisis se centra en optimizar el rendimiento de los vehículos mediante:  
+- **Monitoreo en tiempo real** del consumo de gasolina.  
+- **Identificación de patrones** en datos de rutas y conductores.  
+- **Dashboards interactivos** para visualizar métricas clave como consumo por unidad, horas en inactividad y estado del mantenimiento.  
+
+## Acceder al Dashboard  
+
+Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com](https://app.powerbi.com/groups/me/reports/14262033-6776-4e6c-8d5f-30dae35fdaeb/3f97fcfffad6a2be1cc0?experience=power-bi)).  
+
+## Archivos del Proyecto  
+
+- **Business Case.pbix**: Archivo de Power BI con el dashboard interactivo.
+- **Business Case.pdf**: Archivo en PDF con el análisis completo del caso de negocio.
+- **Captura del Dashboard**: Imagen del dashboard en formato PNG. [image](https://github.com/user-attachments/assets/1d927870-58e5-40cd-943c-68c3cf57ea68)
+
+
+## Tecnologías Utilizadas  
+
+- **Power BI**: Para la creación del dashboard interactivo.  
+- **Python**: Para el análisis de datos y generación de métricas.  
+- **Datos simulados**: Basados en escenarios reales del sector transporte.  
+
+## Cómo Ejecutar el Proyecto  
+
+1. **Requisitos**: Tener Power BI Desktop instalado.  
+2. **Descargar el archivo**: Descarga el archivo `.pbix` desde este [enlace](https://github.com/e-capetillo/Portafolio/blob/POWERBI/Business%20Case.pbix).  
+3. **Abrir en Power BI Desktop**: Explora las visualizaciones y métricas del proyecto.  
+
 **Proyecto creado por:** Emily Capetillo López  
-**Fecha de Creación:** Enero 2025  
-**Correo electrónico:** [emi.capetillo@gmail.com](mailto:emi.capetillo@gmail.com)
+**Fecha de Creación:** Julio 2024  
+---
+
+## Contacto  
+
+Para dudas o sugerencias, puedes contactarme a través de GitHub o por correo electrónico [emi.capetillo@gmail.com](mailto:emi.capetillo@gmail.com)
+
