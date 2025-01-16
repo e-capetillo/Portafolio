@@ -86,6 +86,53 @@ Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([ht
 **Fecha de Creación:** Julio 2024  
 ---
 
+# Análisis del Desempeño de Ventas en Cadena de Supermercados  
+
+Este proyecto utiliza **Power BI** para realizar un análisis visual exhaustivo del desempeño de ventas en una empresa de supermercados. Las visualizaciones incluyen mapas, gráficos de barras, anillos y embudos, proporcionando insights clave para la toma de decisiones estratégicas.  
+
+## Descripción  
+
+El dashboard presenta los siguientes análisis principales:  
+- **Importe de venta por zona y país**: Visualizado mediante treemaps y mapas coropléticos para identificar zonas rentables.  
+- **Comparativa de ventas por año**: Gráficos circulares y de columnas apiladas para observar tendencias temporales.  
+- **Costes totales vs ingresos**: Análisis por zona geográfica para evaluar rentabilidad.  
+- **Unidades vendidas por zona**: Gráficos de anillos que destacan patrones de consumo.  
+- **Embudo de ventas por tipo de producto**: Comparativa de ventas en unidades, importe de venta e importe coste.  
+
+## Insights Clave  
+
+- Identificación de zonas o países más rentables para oportunidades de expansión.  
+- Detección de productos más rentables para optimizar inventario y estrategias de promoción.  
+- Evaluación de la rentabilidad por mercado y ajustes en estrategias de precios.  
+- Identificación de cuellos de botella en el proceso de ventas mediante el análisis del embudo.
+
+## Acceder al Dashboard  
+
+Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com/groups/me/reports/b3b10322-e091-4a42-831b-d027200f43ba/ReportSection?experience=power-bi)).  
+
+## Archivos del Proyecto  
+
+- **Análisis en Cadena de Supermercado.pbix**: Archivo principal de Power BI con todas las visualizaciones.  
+- **Captura del Dashboard**: Imagen del dashboard en formato PNG.
+
+![Análisis en Cadena de Supermercado (1)](https://github.com/user-attachments/assets/081aae1c-263a-4dfd-97e2-3b95086f1653)
+
+![Análisis en Cadena de Supermercado (2)](https://github.com/user-attachments/assets/8c192c4f-9282-4971-9f23-a44bbb717a77)
+
+## Tecnologías Utilizadas  
+
+- **Power BI**: Para la creación y visualización del análisis.  
+- **DAX**: Para cálculos y medidas personalizadas.  
+- **Datos simulados**: Generados para representar escenarios reales en el sector minorista.  
+
+## Cómo Ejecutar el Proyecto  
+
+1. **Requisitos**: Tener Power BI Desktop instalado.  
+2. **Descargar el archivo**: Descarga el archivo `.pbix` desde este [enlace](https://github.com/e-capetillo/Portafolio/blob/POWERBI/An%C3%A1lisis%20en%20Cadena%20de%20Supermercado.pbix).  
+3. **Abrir en Power BI Desktop**: Explora las visualizaciones y análisis.
+
+---
+
 ## Contacto  
 
 Para dudas o sugerencias, puedes contactarme a través de GitHub o por correo electrónico [emi.capetillo@gmail.com](mailto:emi.capetillo@gmail.com)
