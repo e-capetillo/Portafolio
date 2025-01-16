@@ -65,7 +65,9 @@ Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([ht
 
 - **Business Case.pbix**: Archivo de Power BI con el dashboard interactivo.
 - **Business Case.pdf**: Archivo en PDF con el análisis completo del caso de negocio.
-- **Captura del Dashboard**: Imagen del dashboard en formato PNG. [image](https://github.com/user-attachments/assets/1d927870-58e5-40cd-943c-68c3cf57ea68)
+- **Captura del Dashboard**: Imagen del dashboard en formato PNG.
+
+![image](https://github.com/user-attachments/assets/1d927870-58e5-40cd-943c-68c3cf57ea68)
 
 
 ## Tecnologías Utilizadas  
