@@ -84,6 +84,7 @@ Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([ht
 
 **Proyecto creado por:** Emily Capetillo López  
 **Fecha de Creación:** Julio 2024  
+
 ---
 
 # Análisis del Desempeño de Ventas en Cadena de Supermercados  
@@ -108,7 +109,7 @@ El dashboard presenta los siguientes análisis principales:
 
 ## Acceder al Dashboard  
 
-Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com/groups/me/reports/b3b10322-e091-4a42-831b-d027200f43ba/ReportSection?experience=power-bi)).  
+Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com/groups/me/reports/b3b10322-e091-4a42-831b-d027200f43ba/ReportSection?experience=power-bi).  
 
 ## Archivos del Proyecto  
 
@@ -130,6 +131,9 @@ Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([ht
 1. **Requisitos**: Tener Power BI Desktop instalado.  
 2. **Descargar el archivo**: Descarga el archivo `.pbix` desde este [enlace](https://github.com/e-capetillo/Portafolio/blob/POWERBI/An%C3%A1lisis%20en%20Cadena%20de%20Supermercado.pbix).  
 3. **Abrir en Power BI Desktop**: Explora las visualizaciones y análisis.
+
+**Proyecto creado por:** Emily Capetillo López  
+**Fecha de Creación:** Enero 2024 
 
 ---
 
