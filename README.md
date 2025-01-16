@@ -14,10 +14,6 @@ El dashboard de ventas está diseñado para proporcionar una visión completa so
 
 Este análisis es útil para tomar decisiones informadas sobre el rendimiento de los productos y optimizar estrategias de ventas.
 
-## Acceder al Dashboard
-
-Puedes ver el dashboard interactivo en Power BI Service siguiendo este [enlace](https://app.powerbi.com/groups/me/reports/86a86ea2-b9bc-488e-a97c-592287bc5708/e5bc2d7e9130b9f66006?experience=power-bi).
-
 ## Visualización del Dashboard
 
 A continuación, una captura de pantalla del dashboard:
@@ -56,10 +52,6 @@ El análisis se centra en optimizar el rendimiento de los vehículos mediante:
 - **Monitoreo en tiempo real** del consumo de gasolina.  
 - **Identificación de patrones** en datos de rutas y conductores.  
 - **Dashboards interactivos** para visualizar métricas clave como consumo por unidad, horas en inactividad y estado del mantenimiento.  
-
-## Acceder al Dashboard  
-
-Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace](https://app.powerbi.com/groups/me/reports/14262033-6776-4e6c-8d5f-30dae35fdaeb/3f97fcfffad6a2be1cc0?experience=power-bi).  
 
 ## Archivos del Proyecto  
 
@@ -106,10 +98,6 @@ El dashboard presenta los siguientes análisis principales:
 - Detección de productos más rentables para optimizar inventario y estrategias de promoción.  
 - Evaluación de la rentabilidad por mercado y ajustes en estrategias de precios.  
 - Identificación de cuellos de botella en el proceso de ventas mediante el análisis del embudo.
-
-## Acceder al Dashboard  
-
-Puedes explorar el dashboard interactivo en Power BI siguiendo este [enlace]([https://app.powerbi.com/groups/me/reports/b3b10322-e091-4a42-831b-d027200f43ba/ReportSection?experience=power-bi).  
 
 ## Archivos del Proyecto  
 
